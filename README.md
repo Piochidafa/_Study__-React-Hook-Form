@@ -9,6 +9,8 @@
 
   <h1 align="center">Tela Padrao</h1>
 
+![Exemplo 1](./ReadMeImages/paginaNormal.png)
   <img align="center" height="50" width="60" src="./ReadMeImages/paginaNormal.png">
+
 
 <div>
