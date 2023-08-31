@@ -3,7 +3,11 @@
 
 <h3 align="center">Formulario feito com o React.TS, PrimeReact e React-Hook-Form</h3>
 
-  <img align="center" height="30" width="30" src="./ReadMeImages/react-hook-form-logo-only.svg">
+<div style="display: inline_block">
+
+  <img align="center" height="40" width="40" src="./ReadMeImages/react-hook-form-logo-only.svg">
+  
+</div>
 
 <hr/>
 
