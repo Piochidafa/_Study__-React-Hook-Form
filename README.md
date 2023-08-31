@@ -1,9 +1,9 @@
 # React + TypeScript + Vite
 
 
-<h3>Formulario feito com o React.TS, PrimeReact e React-Hook-Form</h3>
+<h3 align="center">Formulario feito com o React.TS, PrimeReact e React-Hook-Form</h3>
 
-  <img align="center" height="50" width="50" src="./ReadMeImages/react-hook-form-logo-only.svg">
+  <img align="center" height="30" width="30" src="./ReadMeImages/react-hook-form-logo-only.svg">
 
 <hr/>
 
