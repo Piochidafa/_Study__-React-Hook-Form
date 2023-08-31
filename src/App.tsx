@@ -5,10 +5,8 @@ import {InputText} from 'primereact/inputtext'
 import {useForm} from 'react-hook-form'
 
 interface FormData{
-
   name: string
   pass: string
-
 }
 
 function App() {
@@ -56,6 +54,7 @@ function App() {
             className={`w-full bg-black-alpha-30 font-semibold text-50 ${errors.name && "p-invalid" }`} 
 
             {...register("name", {required: true})}
+
             />
             
             <label htmlFor="InputName" className='text-50 font-bold text-md'>UserName</label>
@@ -77,7 +76,9 @@ function App() {
             <label htmlFor="pass" className='text-50 font-bold text-md'>Password</label>
           
           </span>
+
             {errors.pass?.type === "required" && (<small id="InputName-help" className='text-red-600'>Campo Password é Obrigatorio</small>)}
+
       </div>
     
 </div>
